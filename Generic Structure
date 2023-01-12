@@ -1,0 +1,96 @@
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+
+namespace Generic
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+             * Generic Yapısı Detsylı  ve Kapsamlı ve Karışık bir algoritma yapıldı...
+             */
+            CostumerProcces costumerProcces = new CostumerProcces();
+            costumerProcces.Example1(new Costumer { FirstNme = "Isa Köseoğlu" });
+
+
+            ProductProcces productProcces = new ProductProcces();
+            
+            foreach (Product  item in  productProcces.ProductList(new Product[2] {new Product { ID=2,Price=250.4f},new Product { ID=6,Price=255.05f} }))
+            {
+                Console.WriteLine("----------------");
+                Console.WriteLine("item.ID => {0} --- item.Price => {1}", item.ID,item.Price);
+                
+            }
+
+
+            Console.ReadKey ();
+        }
+    }
+    class Costumer
+    {
+       public int ID;
+       public string FirstNme;
+       public string LastNme;
+    }
+    class Product
+    {
+        public int ID;
+        public float Price;
+    }
+    interface ICostumerDal<Costumer>
+    {
+        void Example1(Costumer costumer);
+    }
+    interface IProductDal<T> where T : class, new()
+    {
+        List<T> ProductList( T[] GetValue);
+    }
+    interface IResponsive<T>
+    {
+        T Value { get; set; }
+        void GetAll(T Entity);
+        void Added(T Entity);
+    }
+    class CostumerProcces : IResponsive<ICostumerDal<Costumer>>,ICostumerDal<Costumer>
+    {
+        public ICostumerDal<Costumer> Value { get ; set ; }
+
+        public void Added(ICostumerDal<Costumer> Entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Example1(Costumer costumer)
+        {
+            Console.WriteLine("Cosutmerin Kendisine Ait Bir Fonksiyounu =>"+costumer.FirstNme);
+        }
+
+        public void GetAll(ICostumerDal<Costumer> Entity)
+        {
+            throw new NotImplementedException();
+        }
+    }
+    class ProductProcces : IResponsive<IProductDal<Product>>, IProductDal<Product>
+    {
+        public IProductDal<Product> Value { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
+        public void Added(IProductDal<Product> Entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void GetAll(IProductDal<Product> Entity)
+        {
+            throw new NotImplementedException();
+        }
+
+
+        public List<Product> ProductList( Product[] GetValue)
+        {
+
+            return new List<Product>(GetValue);
+        }
+    }
+}
