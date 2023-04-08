@@ -1,0 +1,15 @@
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\bin\Debug\net7.0\DesingPatternBuilder.exe
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\bin\Debug\net7.0\DesingPatternBuilder.deps.json
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\bin\Debug\net7.0\DesingPatternBuilder.runtimeconfig.json
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\bin\Debug\net7.0\DesingPatternBuilder.dll
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\bin\Debug\net7.0\DesingPatternBuilder.pdb
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\obj\Debug\net7.0\DesingPatternBuilder.csproj.AssemblyReference.cache
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\obj\Debug\net7.0\DesingPatternBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\obj\Debug\net7.0\DesingPatternBuilder.AssemblyInfoInputs.cache
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\obj\Debug\net7.0\DesingPatternBuilder.AssemblyInfo.cs
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\obj\Debug\net7.0\DesingPatternBuilder.csproj.CoreCompileInputs.cache
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\obj\Debug\net7.0\DesingPatternBuilder.dll
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\obj\Debug\net7.0\refint\DesingPatternBuilder.dll
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\obj\Debug\net7.0\DesingPatternBuilder.pdb
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\obj\Debug\net7.0\DesingPatternBuilder.genruntimeconfig.cache
+C:\Users\EMKIYEH\Desktop\Desing Patterns\DesingPatternBuilder\obj\Debug\net7.0\ref\DesingPatternBuilder.dll
