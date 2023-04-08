@@ -1,0 +1,152 @@
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\appsettings.json
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.exe
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.deps.json
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.runtimeconfig.json
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.runtimeconfig.dev.json
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.pdb
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.Views.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.Views.pdb
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Humanizer.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.csproj.AssemblyReference.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.AssemblyInfoInputs.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.AssemblyInfo.cs
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.csproj.CoreCompileInputs.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.RazorAssemblyInfo.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.RazorAssemblyInfo.cs
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\scopedcss\bundle\EchoposCRUD.styles.css
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\EchoposCRUD.StaticWebAssets.Manifest.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\EchoposCRUD.StaticWebAssets.Pack.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\msbuild.EchoposCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\msbuild.build.EchoposCRUD.props
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EchoposCRUD.props
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EchoposCRUD.props
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.TagHelpers.input.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.TagHelpers.output.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.RazorCoreGenerate.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.RazorTargetAssemblyInfo.cs
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.Views.pdb
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.csproj.CopyComplete
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\refint\EchoposCRUD.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.pdb
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.genruntimeconfig.cache
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\ref\EchoposCRUD.dll
+C:\Users\EMKIYEH\Desktop\SQL Item Create\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\appsettings.json
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.exe
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.deps.json
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.runtimeconfig.json
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.runtimeconfig.dev.json
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.pdb
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.Views.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\EchoposCRUD.Views.pdb
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Humanizer.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.csproj.AssemblyReference.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.AssemblyInfoInputs.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.AssemblyInfo.cs
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.csproj.CoreCompileInputs.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.RazorAssemblyInfo.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.RazorAssemblyInfo.cs
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\scopedcss\bundle\EchoposCRUD.styles.css
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\EchoposCRUD.StaticWebAssets.Manifest.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\EchoposCRUD.StaticWebAssets.Pack.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\msbuild.EchoposCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\msbuild.build.EchoposCRUD.props
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EchoposCRUD.props
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EchoposCRUD.props
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.TagHelpers.input.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.TagHelpers.output.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.RazorCoreGenerate.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.RazorTargetAssemblyInfo.cs
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.Views.pdb
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.csproj.CopyComplete
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\refint\EchoposCRUD.dll
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.pdb
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\EchoposCRUD.genruntimeconfig.cache
+C:\Users\EMKIYEH\Desktop\Echopos\EchoposCRUD\EchoposCRUD\obj\Debug\net5.0\ref\EchoposCRUD.dll

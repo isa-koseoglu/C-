@@ -1,0 +1,44 @@
+﻿@model IEnumerable<EchoposCRUD.Models.Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<a class="btn btn-app  btn-success float-right mb-2" asp-action="Product" asp-route-id="null" >Created</a>
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th scope="row">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Code</th>
+            <th scope="col">Price</th>
+            <th scope="col">KDV</th>
+            <th scope="col" style="text-align:center;">Active-Passive</th>
+            <th scope="col" style="text-align:center;">Procces</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @{
+            int counter = 0;
+        }
+       @foreach (var item in Model) 
+        {
+            counter++;
+            <tr>
+                <th scope="row">@counter</th>
+                <td>@item.ProductName</td>
+                <td>@item.ProductCode</td>
+                <td>@item.ProductPrice</td>
+                <td>@item.ProductKdv</td>
+                <td class="text-center @(item.IsActive==true ?" bg-success":" bg-danger") " style="text-align:center ;font-weight:bold;color:white">
+                    <span>
+                        @(item.IsActive == true ? " Active" : " Passive")
+                    </span></td>
+                <td>
+                    <a class="btn btn-warning d-block" asp-action="Product" asp-route-id="@item.ID">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
