@@ -1,0 +1,17 @@
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\Pipe-Connection.csproj.AssemblyReference.cache
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\Pipe_Connection.Form1.resources
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\Pipe-Connection.csproj.GenerateResource.cache
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\Pipe-Connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\Pipe-Connection.AssemblyInfoInputs.cache
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\Pipe-Connection.AssemblyInfo.cs
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\Pipe-Connection.csproj.CoreCompileInputs.cache
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\bin\Debug\net6.0-windows\Pipe-Connection.exe
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\bin\Debug\net6.0-windows\Pipe-Connection.deps.json
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\bin\Debug\net6.0-windows\Pipe-Connection.runtimeconfig.json
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\bin\Debug\net6.0-windows\Pipe-Connection.dll
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\bin\Debug\net6.0-windows\Pipe-Connection.pdb
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\Pipe-Connection.dll
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\refint\Pipe-Connection.dll
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\Pipe-Connection.pdb
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\Pipe-Connection.genruntimeconfig.cache
+C:\Users\EMKIYEH\Desktop\Echopos\Pipe Connection\Pipe-Connection\Pipe-Connection\obj\Debug\net6.0-windows\ref\Pipe-Connection.dll
