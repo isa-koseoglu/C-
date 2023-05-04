@@ -1,0 +1,34 @@
+CREATE TABLE "Schools" (
+	"SchoolID"	INTEGER,
+	"SchoolName"	TEXT,
+	"SchoolAdress"	TEXT,
+	"SchoolPicturePath"	TEXT,
+	"SchoolCategori"	TEXT,
+	PRIMARY KEY("SchoolID" AUTOINCREMENT)
+);
+
+
+CREATE TABLE "SchoolClasses" (
+	"ClassID"	INTEGER,
+	"ClassName"	TEXT,
+	"ClassCapacity"	TEXT,
+	"ClassCode"	TEXT,
+	"ClassActive"	BLOB,
+	"ClassSchoolID"	INTEGER,
+	FOREIGN KEY("ClassSchoolID") REFERENCES "Schools"("SchoolID"),
+	PRIMARY KEY("ClassID" AUTOINCREMENT)
+);
+
+CREATE TABLE "SchoolStudents" (
+	"StudentID"	INTEGER,
+	"StudentTcNO"	TEXT ,
+	"StudentName"	TEXT,
+	"SudentSurname"	TEXT,
+	"StudentAge"	TEXT,
+	"StudentpPicturePath"	TEXT,
+	"StudentClassID"	INTEGER,
+	"StudentActive"	BLOB,
+	FOREIGN KEY("StudentClassID") REFERENCES "SchoolClasses"("ClassID"),
+	PRIMARY KEY("StudentID" AUTOINCREMENT)
+);
+

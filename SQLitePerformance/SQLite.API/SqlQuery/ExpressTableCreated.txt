@@ -1,0 +1,39 @@
+create database PerformanceSqlDB
+GO
+USE  SokMarketDB
+
+GO
+
+CREATE TABLE "Schools" (
+	"SchoolID"	INTEGER identity(1,1) ,
+	"SchoolName"	TEXT,
+	"SchoolAdress"	TEXT,
+	"SchoolPicturePath"	TEXT,
+	"SchoolCategori"	TEXT,
+	PRIMARY KEY("SchoolID" )
+);
+
+CREATE TABLE SchoolClasses (
+	ClassID	INTEGEr identity(1,1),
+	ClassName	TEXT,
+	ClassCapacity	TEXT,
+	ClassCode	TEXT,
+	ClassActive bit,
+	ClassSchoolID	INTEGER,
+	PRIMARY KEY(ClassID),
+	FOREIGN KEY(ClassSchoolID) REFERENCES Schools("SchoolID")
+);
+
+CREATE TABLE "SchoolStudents" (
+	"StudentID"	INTEGER identity(1,1) , 
+	"StudentTcNO"	nvarchar(13),
+	"StudentName"	TEXT,
+	"SudentSurname"	TEXT,
+	"StudentAge"	int,
+	"StudentpPicturePath"	TEXT,
+	"StudentClassID"	INTEGER,
+	"StudentActive"	bit,
+	PRIMARY KEY("StudentID" ),
+	FOREIGN KEY("StudentClassID") REFERENCES "SchoolClasses"("ClassID")
+);
+

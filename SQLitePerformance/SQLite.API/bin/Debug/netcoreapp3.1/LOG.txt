@@ -1,0 +1,840 @@
+[ 03.05.2023 01:56:12:849 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 01:56:26:621 ] >>> SQLExpress 
+Out = 100000 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 01:57:04:498 ] >>> SQLExpress 
+Out =  Update İşlemi Başladı --> Schools
+[ 03.05.2023 01:57:05:156 ] >>> SQLExpress 
+Out = 100000 Adet School Update etti
+------------------------------------------
+[ 03.05.2023 01:57:35:961 ] >>> SQLExpress 
+Out =  Listeleme Başladı --> Schools
+[ 03.05.2023 01:57:36:601 ] >>> SQLExpress 
+Out = 100000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 02:13:38:262 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> SchoolClasses
+[ 03.05.2023 02:13:52:782 ] >>> SQLExpress 
+Out = SchoolClass Kayıt etti
+------------------------------------------
+[ 03.05.2023 02:14:20:163 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> SchoolClasses
+[ 03.05.2023 02:14:34:493 ] >>> SQLExpress 
+Out = 100000 Adet SchoolClass Kayıt etti
+------------------------------------------
+[ 03.05.2023 02:15:15:012 ] >>> SQLExpress 
+Out =  Update İşlemi Başladı --> SchoolClasses
+[ 03.05.2023 02:15:57:424 ] >>> SQLExpress 
+Out =  Update İşlemi Başladı --> SchoolClasses
+[ 03.05.2023 02:15:58:117 ] >>> SQLExpress 
+Out = 100000 Adet SchoolClass Kayıt etti
+------------------------------------------
+[ 03.05.2023 02:16:39:874 ] >>> SQLExpress 
+Out =  Listeleme Başladı --> SchoolClasses
+[ 03.05.2023 02:16:40:356 ] >>> SQLExpress 
+Out = 100000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 02:22:28:691 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 02:22:44:690 ] >>> SQLExpress 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 02:23:39:618 ] >>> SQLExpress 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 02:23:40:291 ] >>> SQLExpress 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 02:23:59:196 ] >>> SQLExpress 
+Out =  Listeleme Başladı --> SchoolStudents
+[ 03.05.2023 02:23:59:725 ] >>> SQLExpress 
+Out = 100000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 02:26:39:407 ] >>> SQLExpress 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 02:26:39:950 ] >>> SQLExpress 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 02:27:36:234 ] >>> SQLExpress 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 02:27:36:825 ] >>> SQLExpress 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 02:28:35:812 ] >>> SQLExpress 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 02:28:36:537 ] >>> SQLExpress 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 02:29:28:898 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 02:31:48:684 ] >>> SQLExpress 
+Out = 1000000 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 02:40:09:699 ] >>> SQLExpress 
+Out =  Update İşlemi Başladı --> Schools
+[ 03.05.2023 02:40:17:507 ] >>> SQLExpress 
+Out = 1000000 Adet School Update etti
+------------------------------------------
+[ 03.05.2023 02:41:40:512 ] >>> SQLExpress 
+Out =  Update İşlemi Başladı --> Schools
+[ 03.05.2023 02:41:47:866 ] >>> SQLExpress 
+Out = 1000000 Adet School Update etti
+------------------------------------------
+[ 03.05.2023 02:42:04:129 ] >>> SQLExpress 
+Out =  Listeleme Başladı --> Schools
+[ 03.05.2023 02:42:10:136 ] >>> SQLExpress 
+Out = 1000000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 02:42:14:617 ] >>> SQLExpress 
+Out =  Listeleme Başladı --> Schools
+[ 03.05.2023 02:42:20:712 ] >>> SQLExpress 
+Out = 1000000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 02:42:45:901 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> SchoolClasses
+[ 03.05.2023 02:45:09:782 ] >>> SQLExpress 
+Out = 1000000 Adet SchoolClass Kayıt etti
+------------------------------------------
+[ 03.05.2023 02:49:19:276 ] >>> SQLExpress 
+Out =  Update İşlemi Başladı --> SchoolClasses
+[ 03.05.2023 02:49:26:063 ] >>> SQLExpress 
+Out = 1000000 Adet SchoolClass Kayıt etti
+------------------------------------------
+[ 03.05.2023 02:49:46:212 ] >>> SQLExpress 
+Out =  Listeleme Başladı --> SchoolClasses
+[ 03.05.2023 02:49:51:128 ] >>> SQLExpress 
+Out = 1000000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 02:50:19:099 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 02:52:47:391 ] >>> SQLExpress 
+Out = SchoolStudents 1000000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 02:53:21:298 ] >>> SQLExpress 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 02:53:28:491 ] >>> SQLExpress 
+Out = SchoolStudents 1000000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 02:54:14:815 ] >>> SQLExpress 
+Out =  Listeleme Başladı --> SchoolStudents
+[ 03.05.2023 02:54:19:568 ] >>> SQLExpress 
+Out = 1000000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 02:54:33:474 ] >>> SQLExpress 
+Out =  Listeleme Başladı --> Tüm Tablolar
+[ 03.05.2023 02:54:51:584 ] >>> SQLExpress 
+Out = 1000000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 02:55:07:291 ] >>> SQLExpress 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 02:55:13:773 ] >>> SQLExpress 
+Out = 1000000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 02:55:27:067 ] >>> SQLExpress 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 02:55:34:083 ] >>> SQLExpress 
+Out = 1000000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 02:55:57:770 ] >>> SQLExpress 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 02:56:06:603 ] >>> SQLExpress 
+Out = 1000000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 02:58:06:608 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 03:04:07:172 ] >>> SQLExpress 
+Out = 100000 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:13:28:698 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> Schools
+[ 03.05.2023 03:13:28:760 ] >>> SQLite 
+Out = 100000 Adet School Update etti
+------------------------------------------
+[ 03.05.2023 03:13:33:918 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> Schools
+[ 03.05.2023 03:13:33:986 ] >>> SQLite 
+Out = 100000 Adet School Update etti
+------------------------------------------
+[ 03.05.2023 03:14:13:751 ] >>> SQLite 
+Out =  Listeleme Başladı --> Schools
+[ 03.05.2023 03:14:14:004 ] >>> SQLite 
+Out = 100020 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:14:37:428 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolClasses
+[ 03.05.2023 03:14:37:460 ] >>> SQLite 
+Out = 5 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:14:50:030 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> SchoolClasses
+[ 03.05.2023 03:20:48:730 ] >>> SQLite 
+Out = 1000000 Adet SchoolClass Kayıt etti
+------------------------------------------[ 03.05.2023 03:38:25:444 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolStudents
+[ 03.05.2023 03:38:25:857 ] >>> SQLite 
+Out = 100050 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:38:34:739 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:39:24:055 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:22:015 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:32:412 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:32:472 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:37:836 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:37:910 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:39:111 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:39:174 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:39:911 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:39:974 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:40:581 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:40:644 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:41:305 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:41:355 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:41:978 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:42:031 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:42:646 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:42:709 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:43:311 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:43:380 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:43:998 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:44:068 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:44:622 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:44:680 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:45:310 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:45:362 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:45:976 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:46:047 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:45:46:545 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:45:46:647 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:46:04:341 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:46:04:426 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:46:05:427 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 03:46:05:483 ] >>> SQLite 
+Out = SchoolStudents 100000 item Kayıt etti
+------------------------------------------
+[ 03.05.2023 03:46:24:843 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolStudents
+[ 03.05.2023 03:46:25:240 ] >>> SQLite 
+Out = 100000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:46:51:025 ] >>> SQLite 
+Out =  Update İşlemi Başladı --> SchoolClasses
+[ 03.05.2023 03:46:51:091 ] >>> SQLite 
+Out = 100000 Adet SchoolClass update etti
+------------------------------------------
+[ 03.05.2023 03:47:03:877 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolClasses
+[ 03.05.2023 03:47:04:102 ] >>> SQLite 
+Out = 100005 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:47:22:384 ] >>> SQLite 
+Out =  Listeleme Başladı --> Tüm Tablolar
+[ 03.05.2023 03:47:22:438 ] >>> SQLite 
+Out = 0 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:47:32:925 ] >>> SQLite 
+Out =  Listeleme Başladı --> Tüm Tablolar
+[ 03.05.2023 03:47:32:945 ] >>> SQLite 
+Out = 0 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:48:04:432 ] >>> SQLite 
+Out =  Listeleme Başladı --> Tüm Tablolar
+[ 03.05.2023 03:48:22:989 ] >>> SQLite 
+Out = 0 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:52:49:449 ] >>> SQLite 
+Out =  Listeleme Başladı --> Tüm Tablolar
+[ 03.05.2023 03:53:18:922 ] >>> SQLite 
+Out = 0 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:53:22:498 ] >>> SQLite 
+Out =  Listeleme Başladı --> Tüm Tablolar
+[ 03.05.2023 03:53:22:525 ] >>> SQLite 
+Out = 0 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:56:24:892 ] >>> SQLite 
+Out =  Listeleme Başladı --> Tüm Tablolar
+[ 03.05.2023 03:56:25:435 ] >>> SQLite 
+Out = 100000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:56:28:880 ] >>> SQLite 
+Out =  Listeleme Başladı --> Tüm Tablolar
+[ 03.05.2023 03:56:29:417 ] >>> SQLite 
+Out = 100000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:57:06:010 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 03:57:30:779 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 03:57:46:420 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 03:57:46:475 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 03:57:49:879 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 03:57:49:889 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 03:58:28:855 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 03:58:28:873 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 03:58:46:485 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 03:58:46:508 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 03:59:03:653 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolClasses
+[ 03.05.2023 03:59:03:892 ] >>> SQLite 
+Out = 100005 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:59:08:243 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolClasses
+[ 03.05.2023 03:59:08:470 ] >>> SQLite 
+Out = 100005 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:59:19:963 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 03:59:19:981 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 03:59:24:134 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolClasses
+[ 03.05.2023 03:59:24:395 ] >>> SQLite 
+Out = 100005 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 03:59:25:482 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolClasses
+[ 03.05.2023 03:59:25:704 ] >>> SQLite 
+Out = 100005 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 04:00:48:630 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolClasses
+[ 03.05.2023 04:00:48:957 ] >>> SQLite 
+Out = 100005 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 04:01:03:704 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolStudents
+[ 03.05.2023 04:01:04:038 ] >>> SQLite 
+Out = 100000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 04:01:09:132 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 04:01:09:168 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 04:01:13:362 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 04:01:13:396 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 04:01:17:471 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolStudents
+[ 03.05.2023 04:01:17:773 ] >>> SQLite 
+Out = 100000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 04:01:25:896 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 04:01:25:931 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 04:01:30:334 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 04:01:30:356 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 04:01:32:716 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 04:01:32:722 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 04:01:34:710 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolStudents
+[ 03.05.2023 04:01:34:711 ] >>> SQLite 
+Out = 0 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 04:01:43:258 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 04:01:43:277 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 04:01:55:843 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 03.05.2023 04:01:55:884 ] >>> SQLite 
+Out = 100000 Adet School Sildi item
+------------------------------------------
+[ 03.05.2023 04:02:05:188 ] >>> SQLite 
+Out =  Listeleme Başladı --> SchoolClasses
+[ 03.05.2023 04:02:05:193 ] >>> SQLite 
+Out = 0 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 09:26:27:916 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:33:23:402 ] >>> SQLite 
+Out =  Listeleme Başladı --> Schools
+[ 03.05.2023 09:33:23:974 ] >>> SQLite 
+Out = 89274 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 09:34:02:570 ] >>> SQLite 
+Out = 100000 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:37:02:557 ] >>> SQLite 
+Out =  Listeleme Başladı --> Schools
+[ 03.05.2023 09:37:02:841 ] >>> SQLite 
+Out = 100000 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 09:39:04:646 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:04:680 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:39:06:273 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:06:344 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:39:27:012 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:27:026 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:39:27:977 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:27:990 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:39:28:904 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:28:939 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:39:29:940 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:29:947 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:39:31:049 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:31:066 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:39:33:346 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:33:388 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:39:34:331 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:34:366 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:39:47:208 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:47:246 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:39:49:858 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:49:867 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:39:51:081 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:39:51:086 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:03:447 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:03:464 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:04:737 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:04:747 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:05:796 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:05:810 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:06:581 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:06:618 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:07:395 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:07:407 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:08:231 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:08:250 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:09:099 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:09:130 ] >>> SQLite 
+Out = 1 Adet School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:13:654 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:13:657 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:14:461 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:14:477 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:15:302 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:15:306 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:16:026 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:16:034 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:16:790 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:16:791 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:17:603 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:17:610 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:18:405 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:18:429 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:19:268 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:19:280 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:20:033 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:20:037 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:20:743 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:20:754 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:21:513 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:21:528 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:22:189 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:22:193 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:22:946 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:22:948 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:23:696 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:23:709 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:24:447 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:24:462 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:25:144 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:25:158 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:25:894 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:25:910 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:26:593 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:26:606 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:27:455 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:27:456 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:28:263 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:28:274 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:40:29:062 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:40:29:063 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:43:07:191 ] >>> SQLite 
+Out =  Listeleme Başladı --> Tüm Tablolar
+[ 03.05.2023 09:44:18:205 ] >>> SQLite 
+Out = 0 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 09:44:18:247 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> SchoolClasses
+[ 03.05.2023 09:44:18:259 ] >>> SQLite 
+Out = 1 Adet SchoolClass Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:44:21:775 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:44:21:791 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:44:22:151 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:44:22:153 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:44:22:602 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:44:22:622 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:44:23:061 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:44:23:067 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:44:23:779 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:44:23:781 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:44:24:553 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:44:24:566 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:44:25:211 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:44:25:227 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:44:25:870 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:44:25:880 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:44:26:461 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:44:26:476 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:44:26:938 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:44:26:940 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:44:37:398 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> SchoolStudents
+[ 03.05.2023 09:45:22:339 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> schoolClasses
+[ 03.05.2023 09:45:22:346 ] >>> SQLExpress 
+Out = hatatatatatatatata....
+------------------------------------------
+[ 03.05.2023 09:46:04:577 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> schoolClasses
+[ 03.05.2023 09:46:04:579 ] >>> SQLExpress 
+Out = hatatatatatatatata....
+------------------------------------------
+[ 03.05.2023 09:46:31:009 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> schoolClasses
+[ 03.05.2023 09:46:31:017 ] >>> SQLExpress 
+Out = hatatatatatatatata....
+------------------------------------------
+[ 03.05.2023 09:46:40:673 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> SchoolClasses
+[ 03.05.2023 09:47:00:933 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> School
+[ 03.05.2023 09:47:00:938 ] >>> SQLExpress 
+Out = hatatatatatatatata....
+------------------------------------------
+[ 03.05.2023 09:47:03:454 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 03.05.2023 09:47:03:480 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 03.05.2023 09:47:44:293 ] >>> SQLite 
+Out =  Listeleme Başladı --> Schools
+[ 03.05.2023 09:47:45:099 ] >>> SQLite 
+Out = 100018 Kayıt Listelendi..
+------------------------------------------
+[ 03.05.2023 09:47:58:749 ] >>> SQLite 
+Out =  Listeleme Başladı --> Schools
+[ 03.05.2023 09:51:17:791 ] >>> SQLite 
+Out = 100018 Kayıt Listelendi..
+------------------------------------------
+[ 04.05.2023 00:56:38:801 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 00:56:38:861 ] >>> SQLite 
+Out = 1 Adet Schools Tablosuna veri eklenedi 
+------------------------------------------
+[ 04.05.2023 00:57:06:070 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 01:04:05:745 ] >>> SQLite 
+Out =  Listeleme Başladı --> Schools
+[ 04.05.2023 01:08:00:897 ] >>> SQLite 
+Out =  Delete İşlemi Başladı --> Schools
+[ 04.05.2023 01:08:02:036 ] >>> SQLite 
+Out = 1 Adet School Sildi item
+------------------------------------------
+[ 04.05.2023 01:09:05:671 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 01:09:06:602 ] >>> SQLite 
+Out = 100000 Adet Schools Tablosuna veri eklenedi 
+------------------------------------------
+[ 04.05.2023 01:09:30:053 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 01:09:37:121 ] >>> SQLite 
+Out = 1000000 Adet Schools Tablosuna veri eklenedi 
+------------------------------------------
+[ 04.05.2023 01:12:07:830 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> SchoolClasses
+[ 04.05.2023 23:17:53:299 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:18:09:873 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:18:49:433 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:20:12:982 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:21:03:140 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:21:29:973 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:22:27:775 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:23:46:811 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:29:16:171 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:30:18:454 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:34:29:617 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:34:50:161 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:35:05:925 ] >>> SQLite 
+Out = 1000000 Adet Schools Tablosuna veri eklenedi 
+------------------------------------------
+[ 04.05.2023 23:36:02:078 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> SchoolClasses
+[ 04.05.2023 23:36:17:248 ] >>> SQLite 
+Out = 1000000 Adet SchoolClasses Tablosuna veri eklenedi 
+------------------------------------------
+[ 04.05.2023 23:36:53:111 ] >>> SQLite 
+Out =  Ekleme İşlemi Başladı --> SchoolStudents
+[ 04.05.2023 23:37:11:153 ] >>> SQLite 
+Out = 1000000 Adet SchoolStudents Tablosuna veri eklenedi 
+------------------------------------------
+[ 04.05.2023 23:38:21:869 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:38:21:979 ] >>> SQLExpress 
+Out = 1 Adet  School Kayıt etti
+------------------------------------------
+[ 04.05.2023 23:39:27:803 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 04.05.2023 23:50:55:025 ] >>> SQLExpress 
+Out = 1000000 Adet  School Kayıt etti
+------------------------------------------
+[ 04.05.2023 23:51:14:915 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> SchoolClasses
+[ 05.05.2023 00:02:25:567 ] >>> SQLExpress 
+Out = 1000000 Adet SchoolClass Kayıt etti
+------------------------------------------
+[ 05.05.2023 00:04:45:900 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> SchoolStudents
+[ 05.05.2023 00:15:14:252 ] >>> SQLExpress 
+Out = SchoolStudents 1000000 item Kayıt etti
+------------------------------------------
+[ 05.05.2023 00:21:30:886 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 05.05.2023 00:21:38:274 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 05.05.2023 00:22:04:910 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 05.05.2023 00:23:25:188 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> Schools
+[ 05.05.2023 00:25:47:413 ] >>> SQLExpress 
+Out = 1000000 Adet  School Kayıt etti
+------------------------------------------
+[ 05.05.2023 00:26:04:697 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> SchoolClasses
+[ 05.05.2023 00:28:30:731 ] >>> SQLExpress 
+Out = 1000000 Adet SchoolClass Kayıt etti
+------------------------------------------
+[ 05.05.2023 00:29:15:431 ] >>> SQLExpress 
+Out =  Ekleme İşlemi Başladı --> SchoolStudents
+[ 05.05.2023 00:31:52:965 ] >>> SQLExpress 
+Out = SchoolStudents 1000000 item Kayıt etti
+------------------------------------------
